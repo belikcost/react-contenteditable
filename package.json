@@ -1,5 +1,5 @@
 {
-  "name": "react-contenteditable",
+  "name": "@belikcost/react-contenteditable",
   "version": "3.3.6",
   "description": "React component representing an element with editable contents",
   "main": "./lib/react-contenteditable.js",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lovasoa/react-contenteditable.git"
+    "url": "git+https://github.com/belikcost/react-contenteditable.git"
   },
   "devDependencies": {
     "@types/react": "^17.0.2",
@@ -33,5 +33,9 @@
   "dependencies": {
     "prop-types": "^15.7.1",
     "fast-deep-equal": "^3.1.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/belikcost/react-contenteditable/issues"
+  },
+  "homepage": "https://github.com/belikcost/react-contenteditable#readme"
 }

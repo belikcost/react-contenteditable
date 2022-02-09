@@ -7,7 +7,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lovasoa/react-contenteditable.git"
+    "url": "https://github.com/belikcost/react-contenteditable.git"
   },
   "dependencies": {
     "@types/jest": "^27.0.0",
